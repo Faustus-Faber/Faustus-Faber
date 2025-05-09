@@ -43,10 +43,10 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/farhan-zarif" target="[_blank](https://www.linkedin.com/in/zarif2042/)">
+  <a href="https://www.linkedin.com/in/farhan-zarif" target="https://www.linkedin.com/in/zarif2042/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/farhanzarif" target="_blank">
+  <a href="https://facebook.com/farhanzarif" target="https://www.facebook.com/Farhanzarif">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:farhan.zarif1@g.bracu.ac.bd">
