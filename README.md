@@ -44,7 +44,7 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/farhan-zarif" target="https://www.linkedin.com/in/zarif2042/">
+  <a href="www.linkedin.com/in/zarif2042" target="https://www.linkedin.com/in/zarif2042/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/farhanzarif" target="https://www.facebook.com/Farhanzarif">
