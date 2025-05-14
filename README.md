@@ -39,7 +39,8 @@
 
 ## 🏆 Recent Projects
 - **Very Simple File System Checker (vsfsck)** - A tool for validating and fixing file system images
-- _More projects coming soon!_
+- **FinMan** - Your Personal Finance Manager
+- **MyShell** - UNIX SHell
 
 ## 📫 Connect With Me
 <p align="left">
@@ -59,10 +60,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=farhanzarif&label=Profile+Views" alt="Profile Views Counter" />
 </div>
-
-<!-- 
-Note: You'll need to:
-1. Create a GitHub account with username 'farhanzarif' (or replace with your actual username)
-2. Update the social media links with your actual profiles
-3. Update the email address with your actual email
--->
